@@ -1,5 +1,5 @@
 <?php
 
-  $conn = mysqli_connect('localhost','root','','cash') or die($conn);
+  $conn = mysqli_connect('localhost','root','','KAS') or die($conn);
 
 ?>
